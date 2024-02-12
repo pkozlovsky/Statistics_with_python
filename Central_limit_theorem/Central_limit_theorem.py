@@ -107,3 +107,5 @@ axes[1].set_title("Distribution of Sample Means")
 fig.tight_layout()  # Adjust layout to prevent overlapping
 plt.show()
 
+# --- Q-Q Plot ---
+
